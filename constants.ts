@@ -13,7 +13,7 @@ export const PRODUCTS: Product[] = [
     price: 5400,
     description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
     images: [
-      'images/Bracelet/Bracelet.jpeg'
+      '/images/Bracelet/Bracelet.jpeg'
     ],
     material: 'Platinum',
     stone: 'Diamond'
@@ -25,7 +25,7 @@ export const PRODUCTS: Product[] = [
     price: 5400,
     description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
     images: [
-      'images/Bracelet/Bracelet2.jpeg'
+      '/images/Bracelet/Bracelet2.jpeg'
     ],
     material: 'Platinum',
     stone: 'Diamond'
@@ -37,7 +37,7 @@ export const PRODUCTS: Product[] = [
     price: 5400,
     description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
     images: [
-      'images/Bracelet/Bracelet3.jpeg'
+      '/images/Bracelet/Bracelet3.jpeg'
     ],
     material: 'Platinum',
     stone: 'Diamond'
@@ -49,7 +49,7 @@ export const PRODUCTS: Product[] = [
     price: 5400,
     description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
     images: [
-      'images/Bracelet/Bracelet4.jpeg'
+      '/images/Bracelet/Bracelet4.jpeg'
     ],
     material: 'Platinum',
     stone: 'Diamond'
@@ -74,7 +74,7 @@ export const PRODUCTS: Product[] = [
     price: 2800,
     description: 'A heavyweight 18k solid gold Cuban link chain with a high-polish finish.',
     images: [
-      'images/Chains/chain1.jpeg'
+      '/images/Chains/chain1.jpeg'
     ],
     material: '18k Yellow Gold',
     stone: 'None'
@@ -98,7 +98,7 @@ export const PRODUCTS: Product[] = [
     price: 2800,
     description: 'A heavyweight 18k solid gold Cuban link chain with a high-polish finish.',
     images: [
-      'images/Chains/chain3.jpeg'
+      '/images/Chains/chain3.jpeg'
     ],
     material: '18k Yellow Gold',
     stone: 'None'
@@ -110,7 +110,7 @@ export const PRODUCTS: Product[] = [
     price: 2800,
     description: 'A heavyweight 18k solid gold Cuban link chain with a high-polish finish.',
     images: [
-      'images/Chains/chain4.jpeg'
+      '/images/Chains/chain4.jpeg'
     ],
     material: '18k Yellow Gold',
     stone: 'None'
@@ -122,7 +122,7 @@ export const PRODUCTS: Product[] = [
     price: 2800,
     description: 'A heavyweight 18k solid gold Cuban link chain with a high-polish finish.',
     images: [
-      'images/Chains/chain5.jpeg'
+      '/images/Chains/chain5.jpeg'
     ],
     material: '18k Yellow Gold',
     stone: 'None'
@@ -136,7 +136,7 @@ export const PRODUCTS: Product[] = [
     price: 380,
     description: 'A hand-stamped gold coin charm inspired by celestial maps.',
     images: [
-      'images/Charms/charms1.jpeg',
+      '/images/Charms/charms1.jpeg',
     ],
     material: '18k Gold Vermeil',
     stone: 'None'
@@ -148,7 +148,7 @@ export const PRODUCTS: Product[] = [
     price: 380,
     description: 'A hand-stamped gold coin charm inspired by celestial maps.',
     images: [
-      'images/Charms/charms2.jpeg',
+      '/images/Charms/charms2.jpeg',
     ],
     material: '18k Gold Vermeil',
     stone: 'None'
@@ -159,7 +159,7 @@ export const PRODUCTS: Product[] = [
     price: 380,
     description: 'A hand-stamped gold coin charm inspired by celestial maps.',
     images: [
-      'images/Charms/charmes3.jpeg',
+      '/images/Charms/charmes3.jpeg',
     ],
     material: '18k Gold Vermeil',
     stone: 'None'
@@ -170,8 +170,8 @@ export const PRODUCTS: Product[] = [
     price: 380,
     description: 'A hand-stamped gold coin charm inspired by celestial maps.',
     images: [
-      'images/Charms/charms4.jpeg',
-            'images/Charms/charmes3.jpeg',
+      '/images/Charms/charms4.jpeg',
+            '/images/Charms/charmes3.jpeg',
 
     ],
     material: '18k Gold Vermeil',
@@ -184,9 +184,9 @@ export const PRODUCTS: Product[] = [
     price: 1600,
     description: 'A graduated strand of translucent Grade A Burmese jadeite beads.',
     images: [
-      'images/Beads/beads1.jpeg',
-      'images/Beads/beads1.jpeg',
-      'images/Beads/beads1.jpeg',
+      '/images/Beads/beads1.jpeg',
+      '/images/Beads/beads2.jpeg',
+      '/images/Beads/beads3.jpeg',
     ],
     material: 'Silk Cord',
     stone: 'Jade'
@@ -198,7 +198,7 @@ export const PRODUCTS: Product[] = [
     price: 1600,
     description: 'A graduated strand of translucent Grade A Burmese jadeite beads.',
     images: [
-      'images/Beads/beads2.jpeg',
+      '/images/Beads/beads2.jpeg',
       'https://images.unsplash.com/photo-1531995811006-35cb42e1a022?auto=format&fit=crop&q=80&w=800'
     ],
     material: 'Silk Cord',
@@ -212,7 +212,7 @@ export const PRODUCTS: Product[] = [
     price: 1600,
     description: 'A graduated strand of translucent Grade A Burmese jadeite beads.',
     images: [
-      'images/Beads/beads3.jpeg',
+      '/images/Beads/beads3.jpeg',
       'https://images.unsplash.com/photo-1531995811006-35cb42e1a022?auto=format&fit=crop&q=80&w=800'
     ],
     material: 'Silk Cord',
@@ -225,7 +225,7 @@ export const PRODUCTS: Product[] = [
     price: 1600,
     description: 'A graduated strand of translucent Grade A Burmese jadeite beads.',
     images: [
-      'images/Beads/beads4.jpeg',
+      '/images/Beads/beads4.jpeg',
       
     ],
     material: 'Silk Cord',
@@ -238,7 +238,7 @@ export const PRODUCTS: Product[] = [
     price: 450,
     description: 'A bespoke silver clip featuring a constellation of micro-pavé diamonds.',
     images: [
-      'images/Clips/clip1.jpeg'
+      '/images/Clips/clip1.jpeg'
     ],
     material: 'Sterling Silver',
     stone: 'Diamond'
@@ -250,7 +250,7 @@ export const PRODUCTS: Product[] = [
     price: 450,
     description: 'A bespoke silver clip featuring a constellation of micro-pavé diamonds.',
     images: [
-      'images/Clips/clip2.jpeg'
+      '/images/Clips/clip2.jpeg'
     ],
     material: 'Sterling Silver',
     stone: 'Diamond'
@@ -263,7 +263,7 @@ export const PRODUCTS: Product[] = [
     price: 450,
     description: 'A bespoke silver clip featuring a constellation of micro-pavé diamonds.',
     images: [
-      'images/Clips/clip3.jpeg'
+      '/images/Clips/clip3.jpeg'
     ],
     material: 'Sterling Silver',
     stone: 'Diamond'
@@ -276,7 +276,7 @@ export const PRODUCTS: Product[] = [
     price: 450,
     description: 'A bespoke silver clip featuring a constellation of micro-pavé diamonds.',
     images: [
-      'images/Clips/clip4.jpeg'
+      '/images/Clips/clip4.jpeg'
     ],
     material: 'Sterling Silver',
     stone: 'Diamond'
@@ -289,7 +289,7 @@ export const PRODUCTS: Product[] = [
     price: 450,
     description: 'A bespoke silver clip featuring a constellation of micro-pavé diamonds.',
     images: [
-      'images/Clips/clip5.jpeg'
+      '/images/Clips/clip5.jpeg'
     ],
     material: 'Sterling Silver',
     stone: 'Diamond'
@@ -302,7 +302,7 @@ export const PRODUCTS: Product[] = [
     price: 450,
     description: 'A bespoke silver clip featuring a constellation of micro-pavé diamonds.',
     images: [
-      'images/Clips/clip6.jpeg'
+      '/images/Clips/clip6.jpeg'
     ],
     material: 'Sterling Silver',
     stone: 'Diamond'
@@ -315,7 +315,7 @@ export const PRODUCTS: Product[] = [
     price: 450,
     description: 'A bespoke silver clip featuring a constellation of micro-pavé diamonds.',
     images: [
-      'images/Clips/clip7.jpeg'
+      '/images/Clips/clip7.jpeg'
     ],
     material: 'Sterling Silver',
     stone: 'Diamond'
@@ -328,7 +328,7 @@ export const PRODUCTS: Product[] = [
     price: 450,
     description: 'A bespoke silver clip featuring a constellation of micro-pavé diamonds.',
     images: [
-      'images/Clips/clip8.jpeg'
+      '/images/Clips/clip8.jpeg'
     ],
     material: 'Sterling Silver',
     stone: 'Diamond'
@@ -341,7 +341,7 @@ export const PRODUCTS: Product[] = [
     price: 450,
     description: 'A bespoke silver clip featuring a constellation of micro-pavé diamonds.',
     images: [
-      'images/Clips/clip9.jpeg'
+      '/images/Clips/clip9.jpeg'
     ],
     material: 'Sterling Silver',
     stone: 'Diamond'
@@ -358,7 +358,7 @@ export const PRODUCTS: Product[] = [
     price: 150,
     description: 'Premium silk scrunchie with a detachable 14k gold pearl charm.',
     images: [
-      'images/Scrunchies/Scrunchies1.jpeg'
+      '/images/Scrunchies/Scrunchies1.jpeg'
     ],
     material: 'Silk & 14k Gold',
     stone: 'Pearl'
@@ -370,7 +370,7 @@ export const PRODUCTS: Product[] = [
     price: 150,
     description: 'Premium silk scrunchie with a detachable 14k gold pearl charm.',
     images: [
-      'images/Scrunchies/Scrunchies2.jpeg'
+      '/images/Scrunchies/Scrunchies2.jpeg'
     ],
     material: 'Silk & 14k Gold',
     stone: 'Pearl'
@@ -382,7 +382,7 @@ export const PRODUCTS: Product[] = [
     price: 150,
     description: 'Premium silk scrunchie with a detachable 14k gold pearl charm.',
     images: [
-      'images/Scrunchies/Scrunchies3.jpeg'
+      '/images/Scrunchies/Scrunchies3.jpeg'
     ],
     material: 'Silk & 14k Gold',
     stone: 'Pearl'
@@ -394,7 +394,7 @@ export const PRODUCTS: Product[] = [
     price: 150,
     description: 'Premium silk scrunchie with a detachable 14k gold pearl charm.',
     images: [
-      'images/Scrunchies/Scrunchies4.jpeg'
+      '/images/Scrunchies/Scrunchies4.jpeg'
     ],
     material: 'Silk & 14k Gold',
     stone: 'Pearl'
@@ -406,7 +406,7 @@ export const PRODUCTS: Product[] = [
     price: 150,
     description: 'Premium silk scrunchie with a detachable 14k gold pearl charm.',
     images: [
-      'images/Scrunchies/Scrunchies5.jpeg'
+      '/images/Scrunchies/Scrunchies5.jpeg'
     ],
     material: 'Silk & 14k Gold',
     stone: 'Pearl'
@@ -418,7 +418,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring1.jpeg'
+      '/images/Earrings/earring1.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -430,7 +430,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring2.jpeg'
+      '/images/Earrings/earring2.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -442,7 +442,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring3.jpeg'
+      '/images/Earrings/earring3.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -454,7 +454,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring4.jpeg'
+      '/images/Earrings/earring4.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -466,7 +466,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring5.jpeg'
+      '/images/Earrings/earring5.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -478,7 +478,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring6.jpeg'
+      '/images/Earrings/earring6.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -490,7 +490,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring7.jpeg'
+      '/images/Earrings/earring7.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -502,7 +502,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring8.jpeg'
+      '/images/Earrings/earring8.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -514,7 +514,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring9.jpeg'
+      '/images/Earrings/earring9.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -526,7 +526,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring10.jpeg'
+      '/images/Earrings/earring10.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -538,7 +538,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring11.jpeg'
+      '/images/Earrings/earring11.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -550,7 +550,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring12.jpeg'
+      '/images/Earrings/earring12.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -562,7 +562,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring13.jpeg'
+      '/images/Earrings/earring13.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -574,7 +574,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring14.jpeg'
+      '/images/Earrings/earring14.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -586,7 +586,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring15.jpeg'
+      '/images/Earrings/earring15.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
@@ -599,7 +599,7 @@ export const PRODUCTS: Product[] = [
     price: 1200,
     description: 'An evening clutch hand-encrusted with over 5,000 Swarovski crystals.',
     images: [
-      'images/Earrings/earring16.jpeg'
+      '/images/Earrings/earring16.jpeg'
     ],
     material: 'Silk & Crystal',
     stone: 'Crystal'
