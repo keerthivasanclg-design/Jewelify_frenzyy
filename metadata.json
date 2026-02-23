@@ -1,0 +1,7 @@
+{
+  "name": "Aura Jewelry Atelier",
+  "description": "A luxury jewelry shopping experience featuring an AI-powered styling consultant and high-end collections.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
