@@ -891,7 +891,7 @@ export const PRODUCTS: Product[] = [
     price: 70,
     description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
     images: [
-      'public/images/Bracelet/Black jelly beads .jpeg'
+      '/images/Bracelet/Black jelly beads .jpeg'
     ],
     material: 'Platinum',
   },
