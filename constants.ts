@@ -180,56 +180,12 @@ export const PRODUCTS: Product[] = [
     material: 'Silk Cord',
     stone: 'Jade'
   },
-  {
-    id: '20',
-    name: 'Starry Night Hair Clip',
-    category: 'Clips',
-    price: 450,
-    description: 'A bespoke silver clip featuring a constellation of micro-pavé diamonds.',
-    images: [
-      '/images/Clips/clip1.jpeg'
-    ],
-    material: 'Sterling Silver',
-    stone: 'Diamond'
-  },
- {
-    id: '21',
-    name: 'Starry Night Hair Clip',
-    category: 'Clips',
-    price: 450,
-    description: 'A bespoke silver clip featuring a constellation of micro-pavé diamonds.',
-    images: [
-      '/images/Clips/clip2.jpeg'
-    ],
-    material: 'Sterling Silver',
-    stone: 'Diamond'
-  },
+  
  
-  {
-    id: '22',
-    name: 'Starry Night Hair Clip',
-    category: 'Clips',
-    price: 450,
-    description: 'A bespoke silver clip featuring a constellation of micro-pavé diamonds.',
-    images: [
-      '/images/Clips/clip3.jpeg'
-    ],
-    material: 'Sterling Silver',
-    stone: 'Diamond'
-  },
  
-  {
-    id: '23',
-    name: 'Stone Clip per piece',
-    category: 'Clips',
-    price: 20,
-    description: 'Stone Clip per piece 20₹',
-    images: [
-      '/images/Clips/Stone clip.jpeg'
-    ],
-    material: 'Sterling Silver',
-    stone: 'Diamond'
-  },
+ 
+ 
+  
  
   {
     id: '24',
@@ -576,54 +532,7 @@ export const PRODUCTS: Product[] = [
     material: 'Platinum',
     stone: 'Diamond'
   },
-  {
-    id: '2',
-    name: 'Infinity Tennis Bracelet',
-    category: 'Bracelet',
-    price: 5400,
-    description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
-    images: [
-      '/images/Bracelet/Bracelet2.jpeg'
-    ],
-    material: 'Platinum',
-    stone: 'Diamond'
-  },
-  {
-    id: '3',
-    name: 'Infinity Tennis Bracelet',
-    category: 'Bracelet',
-    price: 5400,
-    description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
-    images: [
-      '/images/Bracelet/Bracelet3.jpeg'
-    ],
-    material: 'Platinum',
-    stone: 'Diamond'
-  },
-  {
-    id: '4',
-    name: 'Infinity Tennis Bracelet',
-    category: 'Bracelet',
-    price: 5400,
-    description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
-    images: [
-      '/images/Bracelet/Bracelet4.jpeg'
-    ],
-    material: 'Platinum',
-    stone: 'Diamond'
-  },
-  {
-    id: '5',
-    name: 'Infinity Tennis Bracelet',
-    category: 'Bracelet',
-    price: 5400,
-    description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
-    images: [
-      'images/Bracelet/Bracelet5.jpeg'
-    ],
-    material: 'Platinum',
-    stone: 'Diamond'
-  },
+  
   
  
   {
@@ -884,7 +793,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: '76',
-    name: ' ',
+    name: 'Antiturnish bracelet  ',
     category: 'Bracelet',
     price: 100,
     description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
@@ -952,6 +861,94 @@ export const PRODUCTS: Product[] = [
     ],
     material: 'Sterling Silver',
     stone: 'Diamond'
+  },
+  {
+    id: '82',
+    name: 'Milky beads bracelet  ',
+    category: 'Bracelet',
+    price: 50,
+    description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
+    images: [
+      '/images/Bracelet/Milky beads bracelet2.jpeg'
+    ],
+    material: 'Platinum',
+  },
+  {
+    id: '83',
+    name: 'Black beads bracelet ',
+    category: 'Bracelet',
+    price: 60,
+    description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
+    images: [
+      '/images/Bracelet/Black beads bracelet.jpeg'
+    ],
+    material: 'Platinum',
+  },
+  {
+    id: '84',
+    name: 'Black jelly beads  ',
+    category: 'Bracelet',
+    price: 70,
+    description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
+    images: [
+      'public/images/Bracelet/Black jelly beads .jpeg'
+    ],
+    material: 'Platinum',
+  },
+  {
+    id: '85',
+    name: 'Glass beads bracelet   ',
+    category: 'Bracelet',
+    price: 70,
+    description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
+    images: [
+      '/images/Bracelet/Glass beads bracelet .jpeg'
+    ],
+    material: 'Platinum',
+  },
+  {
+    id: '86',
+    name: 'Crackle beads bracelet  ',
+    category: 'Bracelet',
+    price: 40,
+    description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
+    images: [
+      '/images/Bracelet/Crackle beads bracelet.jpeg'
+    ],
+    material: 'Platinum',
+  },
+  {
+    id: '87',
+    name: 'Milky breads bracelet ',
+    category: 'Bracelet',
+    price: 40,
+    description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
+    images: [
+      '/images/Bracelet/Milky beads bracelet2.jpeg'
+    ],
+    material: 'Platinum',
+  },
+  {
+    id: '88',
+    name: 'Watch ',
+    category: 'Bracelet',
+    price: 130,
+    description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
+    images: [
+      '/images/Bracelet/Watch .jpeg'
+    ],
+    material: 'Platinum',
+  },
+  {
+    id: '89',
+    name: 'Pink crackle beads ',
+    category: 'Bracelet',
+    price: 60,
+    description: 'A continuous line of ethically sourced diamonds totaling 5 carats.',
+    images: [
+      '/images/Bracelet/Pink crackle beads.jpeg'
+    ],
+    material: 'Platinum',
   },
   
 ];
